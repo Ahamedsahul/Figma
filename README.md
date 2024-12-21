@@ -29,6 +29,11 @@ Publish the website in the given URL.
 Figma
 
 # CODE:
+HOME PAGE
+```
+
 # OUTPUT:
+![Screenshot 2024-12-21 230856](https://github.com/user-attachments/assets/0e6c1e84-b6f7-4487-862c-222ed62e64ee)
+
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
